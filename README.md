@@ -1,6 +1,5 @@
-================================
-      # Jogo-da-Velha
-================================
+## Jogo-da-Velha
+
 # Como usar
   * Executar o arquivo index.html.
   * Jogador 1 = digite o X
