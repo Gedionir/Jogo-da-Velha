@@ -1,0 +1,49 @@
+/*Importação do estilo de fonte*/
+@import url(https://fonts.googleapis.com/css2?family=Righteous&family=Roboto+Mono&family=Sarala:wght@400;700&family=Teko&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Righteous&family=Roboto+Mono&family=Sarala:wght@400;700&family=Tajawal:wght@300&family=Teko&display=swap);
+@import url(http://fonts.googleapis.com/css?family=Geo&subset=latin);
+body{background-color: #684dac;}   /*Corpo da Página*/
+
+ /*Título Principal*/
+h1{
+    text-align: center;
+    color: rgb(148, 4, 4);
+    font-family: 'Teko', sans-serif;
+    padding-top: 50px;
+    font-size: 75px;
+}
+
+/*DIV principal*/
+div
+{
+    width: 30%;
+    height: 100%;
+    background: black;
+    margin: auto;
+}
+
+ /*DIV que engloba os inputs*/
+.divInput
+{
+    height: 30%;
+    width: 70%;
+    float: none;
+}
+/*Todos os inputs com essa formatação*/
+input{
+    width: 80px;
+    height: 80px;
+    border: 5px solid rgb(7, 12, 170);
+    font-size: 60px;
+    margin: 5px;
+    text-align: center;
+    font-family: 'Geo', serif;
+}
+
+/*Paragrafo*/
+p{
+    color: white;
+    text-align: center;
+    font-family: 'Tajawal', sans-serif;
+    font-size: 25px;
+}
