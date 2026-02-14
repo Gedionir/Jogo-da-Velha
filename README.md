@@ -13,3 +13,7 @@
   
 ## Autor
   * Gedionir Amaral Paim.
+
+
+## Layout web
+![Jogo da Velha](https://github.com/Gedionir/Jogo-da-Velha/blob/main/jogo_velha.png)
