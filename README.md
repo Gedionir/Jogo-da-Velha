@@ -2,8 +2,8 @@
 
 ## Como usar
   * Executar o arquivo index.html.
-  * Jogador 1 = digite o X
-  * Jogador 2 = digite o 0
+  * Jogador 1 utiliza o símbolo X
+  * Jogador 2 utiliza o símbolo 0
   * Ganha o jogador que fechar primeiro a linha horizontal, vertical ou diagonal.
   
 ## Tecnologias utilizadas
